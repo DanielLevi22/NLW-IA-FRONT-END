@@ -3,8 +3,6 @@
   <img src="/public/Captura de tela 2023-12-09 175042.png" alt="Logo da Carteira Digital React" width="100%" />
 </p>
 
-[![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-green.svg)](LICENSE)
-[![Versão](https://img.shields.io/badge/Vers%C3%A3o-1.0-blue.svg)](#)
 
 Este projeto inovador combina tecnologias avançadas, incluindo Node.js, Fastify, React e Inteligência Artificial, para oferecer uma solução completa na criação de conteúdo multimídia para YouTube.
 
